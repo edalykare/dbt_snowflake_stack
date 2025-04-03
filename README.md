@@ -1,2 +1,2 @@
-# dbt_sonwflake_stack
+# dbt_snowflake_stack
 dev pipeline dbt snowflake
